@@ -1,5 +1,8 @@
 *{
-  color:white
+  color:white;
+}
+body{
+  background-color: rgb(32, 91, 25);
 }
 .container{
   font-size: 20px;
@@ -7,7 +10,7 @@
   width: 45%;
   margin: auto;
   border-style: solid;
-  border-color:green;
+  border-color:red;
   border-radius:7px;
   background-color: rgb(147, 31, 141);
 }
